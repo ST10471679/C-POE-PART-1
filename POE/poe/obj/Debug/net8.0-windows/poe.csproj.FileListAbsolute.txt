@@ -1,0 +1,15 @@
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\bin\Debug\net8.0-windows\poe.exe
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\bin\Debug\net8.0-windows\Assets\Princess.wav
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\bin\Debug\net8.0-windows\poe.deps.json
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\bin\Debug\net8.0-windows\poe.runtimeconfig.json
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\bin\Debug\net8.0-windows\poe.dll
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\bin\Debug\net8.0-windows\poe.pdb
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\poe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\poe.AssemblyInfoInputs.cache
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\poe.AssemblyInfo.cs
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\poe.csproj.CoreCompileInputs.cache
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\poe.dll
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\refint\poe.dll
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\poe.pdb
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\poe.genruntimeconfig.cache
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net8.0-windows\ref\poe.dll

@@ -1,0 +1,4 @@
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net10.0\poe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net10.0\poe.AssemblyInfoInputs.cache
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net10.0\poe.AssemblyInfo.cs
+C:\Users\HP-Laptop i3\OneDrive\Documents\POE\poe\obj\Debug\net10.0\poe.csproj.CoreCompileInputs.cache
